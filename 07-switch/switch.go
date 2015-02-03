@@ -3,6 +3,7 @@ package main
 import "fmt"
 import "time"
 
+// No fall through with comma-delimited cases is $$$
 func main() {
 
   i := 2
